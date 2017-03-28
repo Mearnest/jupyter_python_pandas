@@ -19,4 +19,4 @@ This repo has the slides (.pdf), a notebook (.ipynb), and a dataset (.csv) of nb
 You may wish to use Anaconda to install the tools needed
 [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
-Sign up for Jupyter group discussion: [https://goo.gl/forms/eiMJj6rfUfKRgE7A3](Signup)
+Sign up for Jupyter group discussion: [Signup Form](https://goo.gl/forms/eiMJj6rfUfKRgE7A3)
