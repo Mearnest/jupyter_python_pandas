@@ -1,6 +1,6 @@
 # Jupyter, Python and Pandas
 
-[http://jupyter.org/](Jupyter) is a browser-based development environment geared toward creating shareable documents called notebooks which can be a mix of code, output, presentation and charts. The Jupyter name is a synthesis of the programming languages Julia, Python and R, which are used for scientific and statistical computing.
+[Jupyter](http://jupyter.org/) is a browser-based development environment geared toward creating shareable documents called notebooks which can be a mix of code, output, presentation and charts. The Jupyter name is a synthesis of the programming languages Julia, Python and R, which are used for scientific and statistical computing.
 
 A notebook is talks to a kernel on the server running a programming language over a web socket. Code entered into the notebook is sent to the kernel, where it is executed and the result is returned to the browser. 
 
