@@ -18,3 +18,7 @@ This repo has the slides (.pdf), a notebook (.ipynb) where we found an "alien" o
 
 You may wish to use Anaconda to install the tools needed
 [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+
+## Example
+
+![Computing Wondrous Numbers](https://github.com/Mearnest/jupyter_python_pandas/blob/master/wondrous_numbers_example.png)
