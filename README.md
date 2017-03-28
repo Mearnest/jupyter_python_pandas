@@ -10,8 +10,6 @@ Jupyter notebooks are used widley in academia and science. They can be used to c
 
 The goal was to take a sample of NBA data, clean it up a bit, and chart the best three point shooters in history to see if anyone was more than two standard deviations above the mean. We found an "alien" outlier.
 
-[Jupyter](http://jupyter.org/) is a browser-based development environment geared toward creating shareable documents called [notebooks](http://jupyter.org/assets/jupyterpreview.png) which can be a mix of code, output, presentation and charts. The Jupyter name is an acronym for the programming languages Julia, Python and R, which are used heavily in scientific and statistical computing.
-
 You can try out Jupyter here: [http://try.jupyter.org/](http://try.jupyter.org/)
 
 This repo has the slides (.pdf), a notebook (.ipynb), and a dataset (.csv) of nba players.
