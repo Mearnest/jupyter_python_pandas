@@ -10,6 +10,8 @@ Jupyter notebooks are used widley in academia and science. They can be used to c
 
 The goal was to take a sample of NBA data, clean it up a bit, and chart the best three point shooters in history to see if anyone was more than two standard deviations above the mean. We found an "alien" outlier.
 
+![Steph Curry is an alien](https://github.com/Mearnest/jupyter_python_pandas/blob/master/curry_alien.png)
+
 You can try out Jupyter here: [http://try.jupyter.org/](http://try.jupyter.org/)
 
 This repo has the slides (.pdf), a notebook (.ipynb), and a dataset (.csv) of nba players.
